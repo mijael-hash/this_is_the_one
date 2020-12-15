@@ -1,0 +1,29 @@
+{ 
+  "ChampionsLeague": [
+    {
+      "name": "FC Barcelona", 
+      "yearFounded": "1899",
+      "League": "La Liga",
+      "President": "Joan Laporta"
+    },
+    {
+      "name": "Real Madrid", 
+      "yearFounded": "1902",
+      "League": "La Liga",
+      "President": "Florentino Perez"
+    },
+    {
+      "name": "FC Bayern Munich", 
+      "yearFounded": "1900",
+      "League": "BundesLiga",
+      "President": "Herbert Hainer"
+    },
+    {
+      "name": "Juventus", 
+      "yearFounded": "1897",
+      "League": "La Liga",
+      "President": "Andrea Agnelli"
+    }
+ ],
+ "status": "OK"
+}
